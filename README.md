@@ -19,7 +19,7 @@ This is a Github repository created to submit the first Homework of the **Fundam
 **Authors:** 
 
 - Miguel Angel Sanchez Cortes <sanchezcortes.2049495@studenti.uniroma1.it>
-- Pasquale Luca Tommassino <tommasino.1912107@studenti.uniroma1.it>
+- Pasquale Luca Tommasino <tommasino.1912107@studenti.uniroma1.it>
 - Sofia Noemi Crobeddu <sofianoemi.crobeddu@gmail.com>
 - Gabriele Volzone <volzone.1917002@studenti.uniroma1.it>
 - Laura Lopez Sanchez <laura.lopez@alum.esci.upf.edu>
